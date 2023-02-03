@@ -34,9 +34,9 @@ The following dependencies are recommended to run an instance:
 ### Obtain the Codebase
 * Clone from github
     ```
-    git clone https://github.com/bmino/binance-triangle-arbitrage.git
+    git clone https://github.com/topstar116/binance-triangle-arbitrage
     ```
-* Download a zip of the [latest release](https://github.com/bmino/binance-triangle-arbitrage/releases/latest)
+* Download a zip of the [latest release](https://github.com/topstar116/binance-triangle-arbitrage/releases/latest)
 
 
 ### Configuration
