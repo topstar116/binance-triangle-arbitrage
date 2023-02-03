@@ -11,7 +11,7 @@ The HUD is the chart displayed above. It is repainted after each calculation cyc
 arbitrage opportunities. To disable the HUD, set `HUD.ENABLED` to false.
 
 
-### Reading the HUD
+### Reading the HUD(Humanitarian Use Device)
 * **Trade** - Three symbols related by exchange rates that are involved in the triangle arbitrage.
 * **Profit** - Percent profit or loss from executing the triangle arbitrage. This includes trading fees specified via `EXECUTION.FEE` config.
 * **AB Age** - Time in milliseconds since the most recent update of the market ticker relating the first and second symbols in the arbitrage.
